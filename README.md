@@ -1,5 +1,10 @@
+# DEPRECATED
+
+New project is https://github.com/dvigal/moex2
+
 # PyMOEX
 Unofficial ISS [MOEX](https://iss.moex.com/iss/reference/) API on Python 
+
 # Installation
 Run the following to instal PyMOEX
 ```
