@@ -3,7 +3,7 @@ Unofficial ISS [MOEX](https://iss.moex.com/iss/reference/) API on Python
 # Installation
 Run the following to instal PyMOEX
 ```
-git clone https://github.com/dvigal/moex.git
+git clone https://github.com/ntcny/moex.git
 pip install .
 ```
 
